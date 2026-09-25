@@ -20,3 +20,8 @@ The purpose of this repository is to learn and practice the fundamentals of Git 
 **Craig Anthony M. Naguit**  
 IV-CCSAD  
 Submitted to: Prof. Christian Michael Mansueto
+
+
+## Update from Local Machine
+This section was added from my local computer using Git.
+The repository was cloned, edited locally, committed, and pushed back to GitHub.
