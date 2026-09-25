@@ -1,2 +1,22 @@
 # Intro-to-GitHub
-A repository created to learn the basics of Git and GitHub for my IV-CCSAD assignment.
+
+This repository was created as part of my assignment on **Introduction to Git and GitHub**.
+
+## Purpose
+The purpose of this repository is to learn and practice the fundamentals of Git and GitHub, including:
+- Creating and managing repositories
+- Uploading and organizing project files
+- Cloning a repository to a local machine
+- Committing and pushing changes using Git
+
+## Files
+| File | Description |
+|------|-------------|
+| `hello.py` | A simple Python program that prints a greeting |
+| `index.html` | A basic HTML web page |
+| `style.css` | The stylesheet for the web page |
+
+## Author
+**Craig Anthony M. Naguit**  
+IV-CCSAD  
+Submitted to: Prof. Christian Michael Mansueto
